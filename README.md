@@ -1,4 +1,4 @@
-# Angular-Guide
+# Angular Guide
 A list of resources, links, etc. for learning AngularJs
 
 ## People to follow
@@ -17,7 +17,7 @@ A list of resources, links, etc. for learning AngularJs
 * [http://blog.backand.com/list-of-angularjs-resources/](http://blog.backand.com/list-of-angularjs-resources/)
 * [https://github.com/jmcunningham/AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning)
 
-# JavaScript-Guide
+# JavaScript Guide
 A list of resources, links, etc. for learning Javascript
 
 ## Docs
@@ -26,7 +26,23 @@ A list of resources, links, etc. for learning Javascript
 ## Courses
 * [https://www.udemy.com/understand-javascript/](https://www.udemy.com/understand-javascript/)
 
-## Off-topic
-A list of useful links/tools not related to AngularJs
+# Ruby Guide
+A list of resources, links, etc. for learning Ruby
+
+## Docs
+* [http://www.ruby-lang.org/en/documentation/](http://www.ruby-lang.org/en/documentation/)
+
+## Courses
+* [https://www.udemy.com/the-complete-ruby-on-rails-developer-course/](https://www.udemy.com/the-complete-ruby-on-rails-developer-course/)
+
+## Books
+* [https://www.railstutorial.org/book](https://www.railstutorial.org/book)
+* [http://learnpythonthehardway.org/book/](http://learnpythonthehardway.org/book/)
+
+## Screencasts
+* [https://gorails.com/](https://gorails.com/)
+
+# General
+A list of useful links/tools not related to any specific language
 * [http://devdocs.io/](http://devdocs.io/)
 * [http://allthefreestock.com/](http://allthefreestock.com/)
