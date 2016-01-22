@@ -21,5 +21,6 @@ A list of resources, links, etc. for learning AngularJs
 * [https://github.com/angular/angular-seed](https://github.com/angular/angular-seed)
 
 ## Styleguides
+* [http://google.github.io/styleguide/angularjs-google-style.html](http://google.github.io/styleguide/angularjs-google-style.html)
 * [https://github.com/johnpapa/angular-styleguide](https://github.com/johnpapa/angular-styleguide)
 * [https://github.com/toddmotto/angularjs-styleguide](https://github.com/toddmotto/angularjs-styleguide)
