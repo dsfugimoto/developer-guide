@@ -10,6 +10,9 @@ A list of resources, links, etc. for learning AngularJs
 ## Docs
 * [https://docs.angularjs.org/api](https://docs.angularjs.org/api)
 
+## Ebooks
+* [http://fdietz.github.io/recipes-with-angular-js/](http://fdietz.github.io/recipes-with-angular-js/)
+
 ## Courses
 * [http://school.codecraftpro.com/courses/angularjs-from-zero-to-awesome/](http://school.codecraftpro.com/courses/angularjs-from-zero-to-awesome/)
 
