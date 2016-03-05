@@ -6,3 +6,6 @@ A list of resources, links, etc. for learning Javascript
 
 ## Courses
 * [https://www.udemy.com/understand-javascript/](https://www.udemy.com/understand-javascript/)
+
+## Collections
+* [http://wesbos.com/learn-javascript/](http://wesbos.com/learn-javascript/)
